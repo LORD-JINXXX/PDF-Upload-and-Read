@@ -24,42 +24,43 @@
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/news-app.git
-    cd news-app
-    ```
-
-1. Clone the repository:
-
-    ```bash
     git clone https://github.com/LORD-JINXXX/PDF-Upload-and-Read.git
     cd pdf-upload-and-read
     ```
 
 2. Install the dependencies:
 In the first terminal, install dependencies for the backend server:
+
+    ```bash
     cd backend
     npm install
+    ```
 In the second terminal, install dependencies for frontend development server:
-   
+
+    ```bash
     cd frontend
     npm install
-
+    ```
 
 4. Create a `.env` file in the root directory and add your NEWS API key:
 
-    
+    ```bash
     OPENAI_API_KEY=your_openai_api_key
-    
+    ```
 
 5. Start the development server:
 
     In the first terminal, start the backend server:
+    ```bash
     cd backend
     npm start
+    ```
 
     In the second terminal, start the frontend development server:
+    ```bash
     cd frontend
     npm start
+    ```
 
     The app will be available at `http://localhost:3000`.
 
