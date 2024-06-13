@@ -29,13 +29,13 @@
     ```
 
 2. Install the dependencies:
-2.1)In the first terminal, install dependencies for the backend server:
-
+   
+    In the first terminal, install dependencies for the backend server:
     ```bash
     cd backend
     npm install
     ```
-2.2)In the second terminal, install dependencies for frontend development server:
+    In the second terminal, install dependencies for frontend development server:
 
     ```bash
     cd frontend
