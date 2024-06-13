@@ -30,10 +30,10 @@
 
 1. Clone the repository:
 
-    
+    ```bash
     git clone https://github.com/LORD-JINXXX/PDF-Upload-and-Read.git
     cd pdf-upload-and-read
-    
+    ```
 
 2. Install the dependencies:
 In the first terminal, install dependencies for the backend server:
