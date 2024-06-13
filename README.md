@@ -29,26 +29,26 @@
     ```
 
 2. Install the dependencies:
-In the first terminal, install dependencies for the backend server:
+2.1)In the first terminal, install dependencies for the backend server:
 
     ```bash
     cd backend
     npm install
     ```
-In the second terminal, install dependencies for frontend development server:
+2.2)In the second terminal, install dependencies for frontend development server:
 
-```bash
+    ```bash
     cd frontend
     npm install
     ```
 
-4. Create a `.env` file in the root directory and add your NEWS API key:
+3. Create a `.env` file in the root directory and add your NEWS API key:
 
     ```bash
     OPENAI_API_KEY=your_openai_api_key
     ```
 
-5. Start the development server:
+4. Start the development server:
 
     In the first terminal, start the backend server:
     ```bash
