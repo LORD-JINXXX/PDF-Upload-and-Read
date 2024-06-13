@@ -37,7 +37,7 @@ In the first terminal, install dependencies for the backend server:
     ```
 In the second terminal, install dependencies for frontend development server:
 
-    ```bash
+```bash
     cd frontend
     npm install
     ```
